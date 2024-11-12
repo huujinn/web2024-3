@@ -1,4 +1,4 @@
 function imagchange1(){
   document.getElementById('logo').src=
-  './image/bulb-off.png';
+  './image/500.jpg';
 }
