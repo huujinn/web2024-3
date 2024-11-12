@@ -1,2 +1,4 @@
 function gazo688()
-{
+{document.getElementById('who688').innerHTML=
+'<img src="./image/OIP.jpg" alt="オン">'
+;}
