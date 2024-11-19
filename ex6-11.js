@@ -5,4 +5,5 @@ function imgchange3(){
 
 function imgchange4()
  document.getElementById('logo').src=
-'.'
+'./image/OIP%20(1).jpg';
+}
