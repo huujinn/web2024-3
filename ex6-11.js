@@ -3,7 +3,7 @@ function imgchange3(){
 './image/school.jpg';
 }
 
-function imgchange4()
+function imgchange4(){
  document.getElementById('logo').src=
 './image/OIP%20(1).jpg';
 }
