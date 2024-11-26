@@ -5,5 +5,5 @@ function imgchang1(){
 
 function imgchang2(){
  document.getElementById('Josai').src=
-'.
+'./image/OIP%20(1).jpg';
 }
