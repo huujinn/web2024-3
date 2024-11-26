@@ -19,5 +19,5 @@ const str='Mozilla';
 console.log(str.substr(1,2));
 //expected output:"oz"
 
-console.iog(str.substr(2));
+console.log(str.substr(2));
 //ezpected output:"zilla"
