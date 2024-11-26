@@ -1,4 +1,3 @@
 function chan(){
-document.getElementById('JU').src=
-'.
+"/image/1611144883117.jpg";
 }  
