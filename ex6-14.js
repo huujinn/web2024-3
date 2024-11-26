@@ -1,3 +1,4 @@
-function chan(){
-"/image/1611144883117.jpg";
+function change1(){
+document.getElementById('bulb').src=
+'./image/OIP.jpg;
 }  
