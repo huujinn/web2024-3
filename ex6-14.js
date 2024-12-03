@@ -1,5 +1,5 @@
 function change1(){
 document.getElementById('bulb').src=
 './image/OIP.jpg';
-setTimeout("src,3000");
+setTimeout("'./image/bulb-off.png',3000");
 }
