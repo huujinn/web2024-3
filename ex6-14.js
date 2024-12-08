@@ -3,6 +3,6 @@ document.getElementById('bulb').src=
 './image/OIP.jpg';
 }
 function hyojii(){
-<img src=>
+<img src='/image/bulb-off.png'>
 setTimeout("hyojii()",3000);
 }
