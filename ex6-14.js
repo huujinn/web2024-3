@@ -1,5 +1,7 @@
-function change1(){
+function hyoji1(){
 document.getElementById('bulb').src=
 './image/OIP.jpg';
-  setTimeout("change1()",3000);
+}
+function change1(){
+  setTimeout("hyoji1()",3000);
 }
