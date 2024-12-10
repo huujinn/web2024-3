@@ -3,5 +3,5 @@ document.getElementById('bulb').src=
 './image/OIP.jpg';
 }
 function change1(){
-  setTInterval("hyoji1()",3000);
+  setInterval("hyoji1()",3000);
 }
