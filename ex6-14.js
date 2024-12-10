@@ -1,7 +1,4 @@
-function hyoji1(){
+function change1(){
 document.getElementById('bulb').src=
 './image/OIP.jpg';
-}
-function change1(){
-  setInterval("hyoji1()",3000);
-}
+
