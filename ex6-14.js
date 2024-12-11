@@ -1,9 +1,8 @@
-function change1(){
+var chan=function change1(){
 document.getElementById('bulb').src=
 './image/OIP.jpg';
 }
-var chan='./image/bulb-off.png';
+//var chan=
 //document.getElementById('bulb').src=
 //'./image/bulb-off.png';
-
 setTimeout(chan,3000);
