@@ -4,6 +4,6 @@ var imgElement= document.getElementById('bulb').src=
 var bulboffSrc='./image/bulb-off.png';
 //3秒後に元に戻す
 setTimeout(function(){
-imgElement.src=bulboffSrc;
-},3000);
+imgElement.src=bulboffSrc
+,3000);}
 }
