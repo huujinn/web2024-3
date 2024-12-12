@@ -1,5 +1,9 @@
-//function add1(){
-//var x=document.getElementById('input11').value;
-//var y=document.getelementById('input12').value;
-//alert(x+y);
-//}
+function add1(){
+var x= Number(document.getElementById('input11').value);
+var y= Number(document.getelementById('input12').value);
+//身長を変換
+x= x/100;
+//BMIの計算
+var bmi= y/(x*x);
+alert(y/x*x);
+}
