@@ -5,5 +5,5 @@ var y= Number(document.getElementById('input12').value);
 x= x/100;
 //BMIの計算
 var bmi= y/(x*x);
-alert(y/x*x);
+alert(bmi);
 }
