@@ -6,3 +6,4 @@ var bulboffSrc='./image/bulb-off.png';
 setTimeout(function(){
 imgElement.src=bulboffSrc;
 },3000);
+}
