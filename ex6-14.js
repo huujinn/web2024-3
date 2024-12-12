@@ -1,8 +1,9 @@
 function change1(){
-document.getElementById('bulb').src=
-'./image/OIP.jpg';
+var imgElement=document.getElementById('bulb');
+var bulboffSrc=
+var bulbonSrc='./image/OIP.jpg';
+  
+setTimeout(function(){
+
+  
 }
-//var chan=
-//document.getElementById('bulb').src=
-//'./image/bulb-off.png';
-setTimeout(chan,3000);
